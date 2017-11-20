@@ -34,7 +34,7 @@
 		"editorSuggestWidget.border": "#31445E",
 		"editorSuggestWidget.foreground": "#f1eaea",
 		"editorSuggestWidget.highlightForeground": "#FFFFFF",
-        "editorSuggestWidget.selectedBackground": "#2D5176",
+		"editorSuggestWidget.selectedBackground": "#2D5176",
 		"editorWhitespace.foreground": "#233043",
 		"editorWidget.background": "#233043",
 		"focusBorder": "#1862ab",
